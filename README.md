@@ -24,5 +24,10 @@ rosを用いて数をカウントするプログラム。 
   * count.py 
     * rospy.Publisherを作って定期的にデータを投げる 
     * 実行動画:https://instagram.com/p/Bd4ECrQjkEj/
-  * twice.py(https://instagram.com/p/Bd4ESnZDb1T/ ),(https://instagram.com/p/Bd4EfrDjA6B/ )
+  * twice.py 
+    * 2倍になった数字が端末に表示される
+    * 実行動画:https://instagram.com/p/Bd4ESnZDb1T/ 
+    * パブリッシャとサブスクライバを同居させる
+    * 実行動画:https://instagram.com/p/Bd4EfrDjA6B/
+    
 #### ロボットシステム学2017第13回 (https://github.com/ryuichiueda/robosys2017/blob/master/13.md )
