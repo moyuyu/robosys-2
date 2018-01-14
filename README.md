@@ -19,7 +19,7 @@
 
 授業についていくのが必至過ぎたので、授業の内容をやりました。  
 #### ロボットシステム学2017第12回 (https://github.com/ryuichiueda/robosys2017/blob/master/12.md )
-rosを用いて数をカウントするプログラム。 
+ROSを用いて数をカウントするプログラム。 
 * 対象ファイル 
   * count.py 
     * rospy.Publisherを作って定期的にデータを投げる 
@@ -31,3 +31,16 @@ rosを用いて数をカウントするプログラム。 
     * 実行動画:https://instagram.com/p/Bd4EfrDjA6B/
     
 #### ロボットシステム学2017第13回 (https://github.com/ryuichiueda/robosys2017/blob/master/13.md )
+ROSからウェブにデータを飛ばしてブラウザで閲覧する。 
+* 対象ファイル 
+  * index.html 
+  * main.js 
+  * webserver.py 
+    * ROSからウェブにデータを飛ばす
+    * 実行画像:https://instagram.com/p/Bd6tNQWDQib/ 
+    * 最小限のHTMLを書く
+    * 実行動画:https://instagram.com/p/Bd6tVIAjDaP/ 
+    
+## 動作環境　　
+- Ubuntu (ver. 16.04)  
+- Tera Term (ver. 4.86)　　
