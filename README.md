@@ -18,7 +18,7 @@
 ## 私がやったこと
 
 授業についていくのが必至過ぎたので、授業の内容をやりました。  
-### ロボットシステム学2017第12回 (https://github.com/ryuichiueda/robosys2017/blob/master/12.md )
+### 第12回 (https://github.com/ryuichiueda/robosys2017/blob/master/12.md )
 ROSを用いて数をカウントするプログラム。 
 * 対象ファイル 
   * count.py 
@@ -30,7 +30,7 @@ ROSを用いて数をカウントするプログラム。 
     * パブリッシャとサブスクライバを同居させる
     * 実行動画:https://instagram.com/p/Bd4EfrDjA6B/
     
-### ロボットシステム学2017第13回 (https://github.com/ryuichiueda/robosys2017/blob/master/13.md )
+### 第13回 (https://github.com/ryuichiueda/robosys2017/blob/master/13.md )
 ROSからウェブにデータを飛ばしてブラウザで閲覧する。 
 * 対象ファイル 
   * index.html 
