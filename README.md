@@ -38,7 +38,7 @@ ROSからウェブにデータを飛ばしてブラウザで閲覧する。
   * webserver.py 
     * ROSからウェブにデータを飛ばす
     * 実行画像:https://instagram.com/p/Bd6tNQWDQib/ 
-    * 最小限のHTMLを書く
+    * 最小限のHTMLを書いてウェブにデータを飛ばす
     * 実行動画:https://instagram.com/p/Bd6tVIAjDaP/ 
     
 ## 動作環境　　
